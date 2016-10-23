@@ -2,9 +2,9 @@ package com.example.clarinetmaster.bmicalculator;
 
 public class Human {
 
-    double height;
-    double weight;
-    double BMI;
+    private double height;
+    private double weight;
+    private double BMI;
 
     public Human(String h, String w){
         this.height = Double.parseDouble(h)/100;
