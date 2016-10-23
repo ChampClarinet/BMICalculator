@@ -16,11 +16,12 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:ignore="UselessParent">
+        tools:ignore="UselessParent"
+        android:gravity="center">
 
         <ImageView
-            android:layout_width="149dp"
-            android:layout_height="152dp"
+            android:layout_width="146dp"
+            android:layout_height="132dp"
             app:srcCompat="@drawable/bmi"
             android:id="@+id/imageView"
             android:layout_gravity="center"
@@ -74,4 +75,5 @@
             android:id="@+id/button"
             android:layout_margin="10dp" />
     </LinearLayout>
+
 </RelativeLayout>
