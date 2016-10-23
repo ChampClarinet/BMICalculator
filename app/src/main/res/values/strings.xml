@@ -6,9 +6,9 @@
     <string name="bmi">Body Mass Index (BMI) :</string>
     <string name="rank">Your BMI is :</string>
     <string name="normal">Normal</string>
-    <string name="thin">thin</string>
-    <string name="high">high</string>
-    <string name="obese">obese</string>
+    <string name="thin">Thin</string>
+    <string name="high">High</string>
+    <string name="obese">Obese</string>
     <string name="img">img</string>
     <string name="error">Error</string>
     <string name="errMessage">Please input height and weight.</string>
