@@ -10,6 +10,6 @@
     <string name="high">high</string>
     <string name="obese">obese</string>
     <string name="img">img</string>
-    <string name="error">Error!</string>
-    <string name="errMessage">Please input value.</string>
+    <string name="error">Error</string>
+    <string name="errMessage">Please input height and weight.</string>
 </resources>
